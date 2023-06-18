@@ -1,3 +1,9 @@
+/**
+ * Week 8 - Getting Values via JS
+ * DEWEY C. FRESCO <dewey.fresco@cvsu.edu.ph>
+ * June 18, 2023 
+ */
+
 // NEW ORDERS
 async function getNewOrder(){
     //Get data from backend using get API
